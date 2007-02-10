@@ -1,0 +1,58 @@
+#summary Walkthrough of the editing process for country contributors
+#labels Featured
+
+= Introduction =
+
+While much of the country profile is harvested from online sources, there are sections that are editable by country contributors. This page explains the editing process.
+
+= Editing country profiles =
+
+First of all, if anything is unclear, you can log an issue at
+[http://code.google.com/p/cepis/issues/list the issue tracker].
+
+This is also the case if you are a contributor and you would like to
+gain access. Please log an issue requesting access, and we'll attend to
+your request.
+
+Once you have a username and password, you can log in by following the
+login link on the [http://countryprofiles.unep.org/ site], or go
+directly to the [http://countryprofiles.unep.org/login_form login form].
+
+Once you have logged in, your personal link bar will appear. It contains
+a link called *My folder*. If you follow this link, you will go to your
+workspace, where you will see a link to your working copy of the
+profile that you manage. You may follow this link to browse your copy.
+
+In order to edit, it, follow the link to the profile and go to the
+*Contents* tab. This will take you to a page from where you may browse
+the sections of the profile.
+
+Not all pages are editable. Many are harvested from remote sources, and
+are automatically updated. To find the ones that are editable, look for
+the text _"Visible and editable only by owner and reviewer"_ in the
+_"State"_ column. 
+
+To edit a page, follow the link to it, and click on the _"Edit"_ tab.
+
+Make any changes you require, and click on _"Save"_ at the bottom of the
+page when you're done.
+
+There are a couple of possible text formats. The text format in use for
+the document being edited appears just above the body text area, beside
+the label *Text Format*. If the text format is not HTML and you would
+like to switch to a richer editing environment (with bold, italics, and
+so on), click on the link _"Edit with kupu"_ just below the body text
+area.
+
+When you are done editing, go back to the main page of the profile by
+following the link in your navigation breadcrumbs. 
+
+There, look for the *State: Visible but not published* link at the top
+right of the content area. This is a dropdown which presents the options
+_"Make private"_, _"Publish"_ and _"Submit"_. In order to publish your
+edited the profile, select _"Publish"_ from this list.
+
+Publishing currently takes quite a while, up to a minute or two, as the
+whole profile is being copied and transfered to its public location. To
+browse the publically accessible version of the profile, select it from
+the "Country Profile" dropdown on the left.
